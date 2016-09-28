@@ -1,4 +1,5 @@
-This is a sample paymets app
+This is a sample payments app
+
  ## Overview
 
  - Language: JavaScript, HTML, CSS
